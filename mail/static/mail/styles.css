@@ -1,0 +1,27 @@
+*
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+textarea {
+    min-height: 400px;
+}
+
+.read-card
+{
+    background-color: grey;
+    margin: 0.5%;
+    padding: 1%;
+}
+
+.card
+{
+    margin: 0.5%;
+    padding: 1%;
+}
+
+.form-group
+{
+    margin: 0.5%;
+    padding: 1%;
+}
